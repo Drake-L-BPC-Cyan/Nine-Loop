@@ -8,6 +8,8 @@ do{
 	$x++;
 } while ($x<=9);
 
+echo $x;	
+	
 if ($x == 9){
 echo " Oh, go away!";
 }
