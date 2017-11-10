@@ -6,7 +6,7 @@
 $x = 1;
 do{
 	$x++;
-} while ($x<=9);
+} while ($x<9);
 
 echo $x;	
 	
